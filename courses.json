@@ -1,0 +1,33 @@
+[
+  {
+    "id": "102",
+    "courseName": "Operating System",
+    "courseCode": "OS201",
+    "dept": "CSE-DS"
+  },
+  {
+    "id": "103",
+    "courseName": "Advance Data Structure",
+    "courseCode": "DS201",
+    "dept": "CSE-DS"
+  },
+  {
+    "id": "104",
+    "courseName": "Object Oriented Programming",
+    "courseCode": "OOPS201",
+    "dept": "CSE-DS"
+  },
+  {},
+  {
+    "id": "105",
+    "courseName": "Artificial Intelligence",
+    "courseCode": "AI301",
+    "dept": "CSE-DS"
+  },
+  {
+    "courseName": "Advanced Full Stack Development"
+  },
+  {
+    "courseName": "Advanced Full Stack Development"
+  }
+]
